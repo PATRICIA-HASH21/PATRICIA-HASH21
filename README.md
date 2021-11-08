@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PATRICIA-HASH21
 - 👀 I’m interested in  vagas para analise de dados
-- 🌱 I’m currently learning  as linguagens R, python, SQL, Power Bi
+- 🌱 I’m currently learning  as linguagens R, python, SQL, Power , SPSS.
 - 📫 How to reach me  linkedin : www.linkedin.com/in/patríciaferreira-cienciadedados
 
 <!---
