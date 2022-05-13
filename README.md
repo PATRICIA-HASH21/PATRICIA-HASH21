@@ -4,7 +4,7 @@
 * Ferramentas- Python, Power Bi, SQL 
 * Formação - Bacharel em ciência Contábeis, Graduação em ciência de dados, Atualmente fazendo Intensivo em data Science na Awari School.
 
-*Coloco amor e dedicação em tudo que faço. A motivação e dedicação são características que me auxilia na entrega de valores, sou determinada e dinâmica com foco na gestão de resultados. Tenho facilidade de aprender e adquirir novos conhecimentos e habilidades.
+* Coloco amor e dedicação em tudo que faço. A motivação e dedicação são características que me auxilia na entrega de valores, sou determinada e dinâmica com foco na gestão de resultados. Tenho facilidade de aprender e adquirir novos conhecimentos e habilidades.
 
 
 * linkedin : www.linkedin.com/in/patríciaferreira-cienciadedados
