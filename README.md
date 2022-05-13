@@ -1,6 +1,6 @@
 * Patrícia Ferreira da Silva 
 * 32 anos 
-* Analista Financeiro pleno.
+* Analista Financeiro Pleno.
 * Ferramentas- Python, Power Bi, SQL.
 * Formação - Bacharel em ciência Contábeis, Graduação em ciência de dados, Atualmente fazendo Intensivo em data Science na Awari School.
 
